@@ -5,6 +5,13 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IQRF", "IQRF\IQRF.csproj", "{C750921C-66B1-437D-9AA4-05D4430A2947}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IQRF IDE Project", "IQRF IDE Project", "{45842C2D-4355-4064-AB74-8B0B02238E86}"
+	ProjectSection(SolutionItems) = preProject
+		IQRF IDE Project\coordinator_DPA_handler_2pulsmetry-pooling.hex = IQRF IDE Project\coordinator_DPA_handler_2pulsmetry-pooling.hex
+		IQRF IDE Project\EOn.iqrfprj = IQRF IDE Project\EOn.iqrfprj
+		IQRF IDE Project\TR_config.xml = IQRF IDE Project\TR_config.xml
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
